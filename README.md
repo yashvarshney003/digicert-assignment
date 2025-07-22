@@ -2,7 +2,7 @@
 
 A RESTful API built using **Go (Gin + GORM)** to manage books in a public library system.
 
-##Features
+## Features
 
 - Add, update, delete, and retrieve books
 - PostgreSQL for persistent storage
@@ -22,7 +22,7 @@ A RESTful API built using **Go (Gin + GORM)** to manage books in a public librar
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the repository
 
@@ -64,7 +64,7 @@ docker-compose up --build
 
 Use the following collection to explore the API endpoints:
 
-👉 [Postman Link](https://web.postman.co/workspace/My-Workspace~4a725b07-e3a5-4f97-81ae-919f1f646a7f/collection/8096381-ff39f516-2951-4d2c-a410-dc6d0bd86269?action=share&source=copy-link&creator=8096381)
+[Postman Link](https://web.postman.co/workspace/My-Workspace~4a725b07-e3a5-4f97-81ae-919f1f646a7f/collection/8096381-ff39f516-2951-4d2c-a410-dc6d0bd86269?action=share&source=copy-link&creator=8096381)
 
 ---
 
